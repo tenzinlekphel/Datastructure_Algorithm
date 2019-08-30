@@ -20,6 +20,7 @@ public class Human {
         System.out.println(" I am " + heightInInches + " inches tall");
         System.out.println(" i am " + age + " years old");
         System.out.println("My eyes color is " + eyeColor);
+        System.out.println("My eyes color is " + eyeColor);
     }
 
     public void eat() {
